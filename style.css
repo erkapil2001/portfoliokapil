@@ -1,0 +1,10 @@
+/* #mm{
+    background-color: rgba(42, 62, 42, 0.981);
+} */
+
+#nav{
+    background-color: rgb(209, 203, 198);
+}
+form input::placeholder{
+    color: black;
+  }
